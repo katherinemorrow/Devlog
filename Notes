@@ -1,0 +1,19 @@
+#Studio Time Notes
+- Testing ARIS with a soundclip longer than 5 seconds
+- Uploaded clip and relocated plaque from Madison Wisconsin to Ottawa. Autoplay enabled.
+- ARIS hates this clip-- crashes everytime I try to open the plaque
+-Evidently I'm not connected to the internet, which is just manifestly untrue
+-I've created a new test focusing on bacon, to see how long a sound clip I can get away with using. 5 seconds works fine. 1 min 30 seconds is too long. But the game appears to have deleted my bacon plaque, despite attaching it to a location and saving te changes. 
+-As a side note, this app is a major battery drain
+-Located the plaque on the map-- it didn't like being in the second scene. When placed in the first scene, it shows up. BUT! now the sound isn't working, despite being on autoplay.
+-Ye gawds, I accidentally duplicated the bacon plaque and there was not media attached, and therefore no media to play
+-The media is attached, and ARIS is not happy. Back to crashing when I activate the plaque
+-note: .wav soundfiles don't work on ARIS
+-18 seconds is also too long, evidently 
+-Am offically peeved @ ARIS, so I'm googling to see if others have done it. Failing that, I'll set up a quest around P/O Burpee.
+-This guy seems to know what he's talking about, and there is CODE to do things with AUDIO: https://localgameslababq.wordpress.com/2015/10/21/aris-and-ar-design-tips/
+-Hot diggity dog, he's got a whole blog post dedicated to sound in ARIS!: https://localgameslababq.wordpress.com/2014/09/23/augmenting-reality-with-sound/
+- Found the Field Day forums and trawling through those for solutions. Evidently, the Android verison I am using just doesn't have sound functionality yet. I guess the little 5 second clip I had in there was just about all it could reasonablly handle? The forum post I got this information from is a little under two years old now, but the Github repro I downloaded it from is the same link, so I guess it is all just stalled.
+-Ah-ha! The new android version does seem to just die, and have minimal functionality-- no quests, no notes, no AR. So, clearly, I'm going to have to comandeer an Apple device at some point to test this nonsense out.
+-Wanted to order my materials from LAC, but don't have my user card with, and therefore cannot
+-The dentist called during class. She placed small bombs in my teeth which she will detonate if I do not come in for my cancer scan ASAP. 
